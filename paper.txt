@@ -1,0 +1,7 @@
+Hi this is your question paper. All the best. Answer the following question//
+
+Q1, What is GitHub?
+
+Q2, How to clone files off GitHub?
+
+Q3, Have fun!
